@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alliance-ec-a8co.vercel.app/sitemap.xml
